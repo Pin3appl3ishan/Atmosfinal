@@ -1,7 +1,7 @@
 # Ecommerce Web Application
 
 **backend deployment stopped** 
-**Live demo version:** https://e-commerce-webapp-five.vercel.app/
+
 
 ## Table of Contents
 - [Overview](#overview)
@@ -114,11 +114,11 @@ Integration with Gmail SMTP for sending activation emails and order confirmation
 
 * **Spring Boot 3**: For building the backend application.
 * **React**: For building the responsive and dynamic client-side application.
+* **TailwindCss**: For efficient styling on the components.
 * **Spring Security 6**: For implementing security features.
 * **JWT Token**: For secure user authentication and session management.
 * **PostgreSQL**: As the relational database for storing user, product, and order data.
 * **Spring Data JPA**: For interacting with the PostgreSQL database.
-* **OpenAPI (Swagger)**: For API documentation and testing.
 * **Gmail SMTP**: For sending emails
 
 ## Use-case Diagram
@@ -127,5 +127,4 @@ Integration with Gmail SMTP for sending activation emails and order confirmation
 ## ER-diagram
 ![ER-diagram](screenshots/er.png)
 
-## Journaling using AOP
-![journaling.png](screenshots/journaling.png)
+
